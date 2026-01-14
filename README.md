@@ -17,10 +17,10 @@ I’m a Computing Science and Business student at Simon Fraser University with a
   A Double Deep Q-Learning agent trained using PyTorch. Focused on training stability, evaluation across thousands of simulated games, and systematic debugging of learning behavior.
 
 ## Interests
-I enjoy solving technically challenging problems, learning how systems fail and recover, and working on projects where software has real-world impact. Outside of tech, I’m interested in mixed martial arts, digital photography, and personal finance.
+I enjoy building and debugging software, learning how systems behave in practice, and working on projects with real-world impact. Outside of tech, I’m into mixed martial arts, digital photography, and the outdoors.
+
 
 ## Get in touch
-- GitHub: [github.com/IsaacPjones](https://github.com/IsaacPjones)
 - Portfolio: [https://isaacpjones.github.io](https://isaacpjones.github.io/)
 - LinkedIn: [https://www.linkedin.com/in/isaac-jones-8a863a29a](https://www.linkedin.com/in/isaac-jones-8a863a29a/)
 
