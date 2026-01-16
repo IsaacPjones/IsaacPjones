@@ -1,6 +1,6 @@
 # Hi, I’m Isaac 😃
 
-I’m a Computing Science and Business student at Simon Fraser University with a strong interest in building practical, reliable software systems. I enjoy working across the stack, from data and backend logic to user-facing applications, and I’m especially interested in how software behaves in real-world, production environments.
+I’m a Computing Science and Business joint major at Simon Fraser University with a strong interest in building practical, reliable software systems. I enjoy working across the stack, from data and backend logic to user-facing applications, and I’m especially interested in how software behaves in real-world, production environments.
 
 ## What I work with
 - **Languages:** C/C++, Python, JavaScript  
@@ -16,8 +16,14 @@ I’m a Computing Science and Business student at Simon Fraser University with a
 - **Connect 4 Reinforcement Learning Agent**  
   A Double Deep Q-Learning agent trained using PyTorch. Focused on training stability, evaluation across thousands of simulated games, and systematic debugging of learning behavior.
 
+- **MMA/UFC Data Analysis**  
+  Analyzed 6,500+ UFC (A mixed martial arts fighting organization) bouts from 2010 to 2024 to measure how fighter attributes (height, reach, age, experience, stance) influence outcomes. After cleaning and standardizing the data (e.g. fuzzy-matching names, merging decision categories), we applied descriptive statistics, one-sample t-tests, OLS regression and trained three classifiers (Logistic Regression, Random Forest, K-Nearest Neighbors).
+  
+
 ## Interests
-I enjoy building and debugging software, learning how systems behave in practice, and working on projects with real-world impact. Outside of tech, I’m into mixed martial arts, digital photography, and the outdoors.
+I enjoy building and debugging software, learning how systems behave in practice, and working on projects with real-world impact. 
+
+Outside of tech, I’m into mixed martial arts, digital photography, spending time outdoors and playing video games.
 
 
 ## Get in touch
