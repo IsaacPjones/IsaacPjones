@@ -17,13 +17,10 @@ I’m a Computing Science and Business joint major at Simon Fraser University wi
   A Double Deep Q-Learning agent trained using PyTorch. Focused on training stability, evaluation across thousands of simulated games, and systematic debugging of learning behavior.
 
 - **MMA/UFC Data Analysis**  
-  Analyzed 6,500+ UFC (A mixed martial arts fighting organization) bouts from 2010 to 2024 to measure how fighter attributes (height, reach, age, experience, stance) influence outcomes. After cleaning and standardizing the data (e.g. fuzzy-matching names, merging decision categories), we applied descriptive statistics, one-sample t-tests, OLS regression and trained three classifiers (Logistic Regression, Random Forest, K-Nearest Neighbors).
-  
+  Analyzed 6,500+ UFC (A mixed martial arts fighting organization) bouts from 2010 to 2024 to measure how fighter attributes (height, reach, age, experience, stance) influence outcomes. We applied descriptive statistics, one-sample t-tests, OLS regression and trained three classifiers (Logistic Regression, Random Forest, K-Nearest Neighbors).
 
-## Interests
-I enjoy building and debugging software, learning how systems behave in practice, and working on projects with real-world impact. 
-
-Outside of tech, I’m into mixed martial arts, digital photography, spending time outdoors and playing video games.
+- **Snow Plow Float mode detector**  
+  Arduino-based float mode detector for a Western snow plow controller, using RS-485 signal monitoring to identify float state and drive an indicator output.
 
 
 ## Get in touch
