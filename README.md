@@ -3,12 +3,11 @@
 I’m a Computing Science and Business joint major at Simon Fraser University with a strong interest in building practical, reliable software systems. I enjoy working across the stack, from data and backend logic to user-facing applications, and I’m especially interested in how software behaves in real-world, production environments.
 
 ## What I work with
-- **Languages:** C/C++, Python, JavaScript  
-- **Web:** React, HTML, CSS, REST APIs  
-- **Data & ML:** Pandas, PyTorch, scikit-learn, SQL  
-- **Tools:** Git, GitHub Actions, Docker  
-- **Systems:** Linux, operating systems, networking fundamentals  
-
+- **Languages:** C/C++, Python, JavaScript, Go, SQL  
+- **Web & APIs:** React, HTML/CSS, REST APIs, Node.js
+- **Data & Machine Learning:** PyTorch, scikit-learn, Pandas, NumPy, statistical modelling, model evaluation  
+- **Developer Tools & Platforms:** Git, GitHub Actions, Docker, Linux, Vercel, CI/CD workflows
+  
 ## Projects
 - **Vancouver Transit Tracker**  
   A real-time web application that displays live transit arrivals for thousands of bus stops. Built with React and Leaflet and deployed with CI/CD using GitHub Actions and Vercel.
